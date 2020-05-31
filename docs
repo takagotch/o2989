@@ -1,0 +1,54 @@
+// https://help.github.com/ja/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+//
+//
+//
+
+
+
+
+// cmd
+bundle exec jekyll -v new .
+jekyll -v new .
+
+// page-name 
+https://takagotch.github.io
+// url-path /about/me
+https://takagotch.github.io/about/me
+/* .yml
+layout: page
+title: "PAGE TITLE"
+permalink: /about/me/
+
+layout: page
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+
+theme: minima
+remote_theme: benbalter/retlab
+*/
+/* .css
+/assets/css/style.scss
+---
+---
+
+@import "";
+
+
+*/
+
+
+// page1.md
+
+
+
+//
+
+//
+//
+
+
+
+
+
+
