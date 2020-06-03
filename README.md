@@ -38,7 +38,7 @@
 
 [takagotch41](https://takagotch.github.io/page41/)
 
-[takagotch42]()
+[takagotch42](https://takagotch.github.io/page42/)
 
 [takagotch43]()
 
