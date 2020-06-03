@@ -2,6 +2,7 @@
 ---
 [takagotch](https://takagotch.github.io/page17/)
 
+[takagotch18](https://takagotch.github.io/page18/)
 
 [takagotch25](https://takagotch.github.io/page25/)
 
