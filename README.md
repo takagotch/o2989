@@ -1,6 +1,6 @@
 ### [takagotch.github.io](https://takagotch.github.io/)
 ---
-[takagotch](https://takagotch.github.io/page17/)
+[takagotch17](https://takagotch.github.io/page17/)
 
 [takagotch18](https://takagotch.github.io/page18/)
 
