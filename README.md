@@ -14,7 +14,7 @@
 
 [takagotch27](https://takagotch.github.io/page27/)
 
-
+[takagotch26](https://takagotch.github.io/page26/)
 
 
 ```
