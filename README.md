@@ -20,7 +20,7 @@
 
 [takagotch40](https://takagotch.github.io/page40/)
 
-[takagotch]()
+[takagotch22](https://takagotch.github.io/page22/)
 
 
 
