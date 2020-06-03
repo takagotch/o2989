@@ -44,6 +44,12 @@
 
 [takagotch44]()
 
+[takagotch46]()
+
+[takagotch48]()
+
+[takagotch52]()
+
 [takagotch21]()
 
 
