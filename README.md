@@ -52,6 +52,25 @@
 
 [takagotch21]()
 
+[takagotch45]()
+
+
+[takagotch]()
+
+[takagotch]()
+
+
+[takagotch]()
+
+[takagotch]()
+
+
+[takagotch]()
+
+[takagotch]()
+
+
+
 
 ```
 ```
