@@ -48,7 +48,7 @@
 
 [takagotch48]()
 
-[takagotch52]()
+[takagotch52](https://takagotch.github.io/page52/)
 
 [takagotch21]()
 
