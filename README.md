@@ -12,6 +12,10 @@
 
 [takagotch30](https://takagotch.github.io/page30/)
 
+[takagotch27](https://takagotch.github.io/page27/)
+
+
+
 
 ```
 ```
