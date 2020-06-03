@@ -22,6 +22,11 @@
 
 [takagotch22](https://takagotch.github.io/page22/)
 
+[takagotch24](https://takagotch.github.io/page24/)
+
+
+
+
 
 
 
