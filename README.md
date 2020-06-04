@@ -40,19 +40,21 @@
 
 [takagotch42](https://takagotch.github.io/page42/)
 
-[takagotch43]()
+
+
+[takagotch43](https://takagotch.github.io/page43/)
 
 [takagotch44](https://takagotch.github.io/page44/)
 
-[takagotch46]()
+[takagotch46](https://takagotch.github.io/page46/)
 
-[takagotch48]()
+[takagotch48](https://takagotch.github.io/page48/)
 
 [takagotch52](https://takagotch.github.io/page52/)
 
-[takagotch21]()
+[takagotch21](https://takagotch.github.io/page21/)
 
-[takagotch45]()
+[takagotch45](https://takagotch.github.io/page45/)
 
 
 [takagotch]()
