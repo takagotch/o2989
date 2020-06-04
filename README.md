@@ -84,7 +84,9 @@
 [takagotch](https://takagotch.github.io/page/)
 [takagotch](https://takagotch.github.io/page/)
 
-https://takagotch.github.io/page53/
+[takagotch53](https://takagotch.github.io/page53/)
+
+
 
 
 
