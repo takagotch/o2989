@@ -86,6 +86,15 @@
 
 [takagotch53](https://takagotch.github.io/page53/)
 
+[takagotch54](https://takagotch.github.io/page54/)
+[takagotch55](https://takagotch.github.io/page55/)
+[takagotch56](https://takagotch.github.io/page56/)
+[takagotch57](https://takagotch.github.io/page57/)
+[takagotch58](https://takagotch.github.io/page58/)
+[takagotch59](https://takagotch.github.io/page59/)
+[takagotch60](https://takagotch.github.io/page60/)
+[takagotch61](https://takagotch.github.io/page61/)
+
 
 
 
