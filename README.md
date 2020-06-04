@@ -57,36 +57,18 @@
 [takagotch45](https://takagotch.github.io/page45/)
 
 
-[takagotch]()
-
-[takagotch]()
-
-
-[takagotch]()
-
-[takagotch]()
-
-
-[takagotch]()
-
-[takagotch]()
-
-
-[takagotch]()
-
-[takagotch]()
-
-
-[takagotch]()
-
-[takagotch]()
-
-
-[takagotch]()
-
-[takagotch]()
-
-
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
+[takagotch](https://takagotch.github.io/page/)
 
 
 ```
