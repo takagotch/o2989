@@ -28,8 +28,6 @@
 
 [takagotch24](https://takagotch.github.io/page24/)
 
-[takagotch34](https://takagotch.github.io/page34/)
-
 [takagotch39](https://takagotch.github.io/page39/)
 
 [takagotch34](https://takagotch.github.io/page34/)
@@ -59,13 +57,25 @@
 [takagotch29](https://takagotch.github.io/page29/)
 
 
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
-[takagotch](https://takagotch.github.io/page/)
+
+[takagotch30](https://takagotch.github.io/page30/)
+
+[takagotch31](https://takagotch.github.io/page31/)
+
+
+[takagotch35](https://takagotch.github.io/page35/)
+[takagotch36](https://takagotch.github.io/page36/)
+
+
+[takagotch37](https://takagotch.github.io/page37/)
+
+[takagotch38](https://takagotch.github.io/page38/)
+
+[takagotch47](https://takagotch.github.io/page47/)
+
+
+
+
 [takagotch](https://takagotch.github.io/page/)
 [takagotch](https://takagotch.github.io/page/)
 [takagotch](https://takagotch.github.io/page/)
