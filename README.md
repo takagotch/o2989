@@ -2,11 +2,11 @@
 ---
 [takagotch17](https://takagotch.github.io/page17/)
 
-[takagotch18](https://takagotch.github.io/page18/)
-
 [takagotch19](https://takagotch.github.io/page19/)
 
 [takagotch46](https://takagotch.github.io/page46/)
+
+[takagotch18](https://takagotch.github.io/page18/)
 
 [takagotch48](https://takagotch.github.io/page48/)
 
