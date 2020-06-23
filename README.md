@@ -149,7 +149,6 @@
 [takagotcho2337](https://takagotch.github.io/o2337/)
 [takagotcho2338](https://takagotch.github.io/o2338/)
 [takagotcho2339](https://takagotch.github.io/o2339/)
-
 [takagotchp2340](https://takagotch.github.io/o2340/)
 [takagotchp2341](https://takagotch.github.io/o2341/)
 [takagotchp2342](https://takagotch.github.io/o2342/)
