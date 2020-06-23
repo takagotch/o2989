@@ -1,5 +1,7 @@
 ### [takagotch.github.io](https://takagotch.github.io/)
 ---
+takagotch co.ltdの作品、サービスのサンプル一覧です。
+---
 [takagotch17](https://takagotch.github.io/page17/)
 [takagotch19](https://takagotch.github.io/page19/)
 [takagotch46](https://takagotch.github.io/page46/)
