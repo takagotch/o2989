@@ -139,7 +139,11 @@
 [takagotch150](https://takagotch.github.io/page150/)
 
 
-
+[takagotcho2330](https://takagotch.github.io/o2330/)
+[takagotchp2340](https://takagotch.github.io/o2340/)
+[takagotcho2350](https://takagotch.github.io/o2350/)
+[takagotcho2360](https://takagotch.github.io/o2360/)
+[takagotcho2370](https://takagotch.github.io/o2370/)
 
 
 
