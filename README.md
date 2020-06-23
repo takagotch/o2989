@@ -129,6 +129,14 @@
 [takagotch140](https://takagotch.github.io/page140/)
 [takagotch141](https://takagotch.github.io/page141/)
 [takagotch142](https://takagotch.github.io/page142/)
+[takagotch143](https://takagotch.github.io/page143/)
+[takagotch144](https://takagotch.github.io/page144/)
+[takagotch145](https://takagotch.github.io/page145/)
+[takagotch146](https://takagotch.github.io/page146/)
+[takagotch147](https://takagotch.github.io/page147/)
+[takagotch148](https://takagotch.github.io/page148/)
+[takagotch149](https://takagotch.github.io/page149/)
+[takagotch150](https://takagotch.github.io/page150/)
 
 
 
