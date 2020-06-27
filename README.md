@@ -150,6 +150,16 @@
 [takagotch158](https://takagotch.github.io/page158/)
 [takagotch159](https://takagotch.github.io/page159/)
 [takagotch160](https://takagotch.github.io/page160/)
+[takagotch161](https://takagotch.github.io/page161/)
+[takagotch162](https://takagotch.github.io/page162/)
+[takagotch163](https://takagotch.github.io/page163/)
+[takagotch164](https://takagotch.github.io/page164/)
+[takagotch165](https://takagotch.github.io/page165/)
+[takagotch166](https://takagotch.github.io/page166/)
+[takagotch167](https://takagotch.github.io/page167/)
+[takagotch168](https://takagotch.github.io/page168/)
+[takagotch169](https://takagotch.github.io/page169/)
+[takagotch170](https://takagotch.github.io/page170/)
 
 
 [takagotcho2830](https://takagotch.github.io/o2830/)
@@ -202,7 +212,7 @@
 [takagotcho2877](https://takagotch.github.io/o2877/)
 [takagotcho2878](https://takagotch.github.io/o2878/)
 [takagotcho2879](https://takagotch.github.io/o2879/)
-[takagotcho2880](https://takagotch.github.io/o2880/)
+
 
 
 ```
