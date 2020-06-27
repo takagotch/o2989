@@ -149,6 +149,7 @@
 [takagotch157](https://takagotch.github.io/page157/)
 [takagotch158](https://takagotch.github.io/page158/)
 [takagotch159](https://takagotch.github.io/page159/)
+[takagotch160](https://takagotch.github.io/page160/)
 
 
 [takagotcho2830](https://takagotch.github.io/o2830/)
