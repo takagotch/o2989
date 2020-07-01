@@ -202,16 +202,7 @@
 [takagotcho2867](https://takagotch.github.io/o2867/)
 [takagotcho2868](https://takagotch.github.io/o2868/)
 [takagotcho2869](https://takagotch.github.io/o2869/)
-[takagotcho2870](https://takagotch.github.io/o2870/)
-[takagotcho2871](https://takagotch.github.io/o2871/)
-[takagotcho2872](https://takagotch.github.io/o2872/)
-[takagotcho2873](https://takagotch.github.io/o2873/)
-[takagotcho2874](https://takagotch.github.io/o2874/)
-[takagotcho2875](https://takagotch.github.io/o2875/)
-[takagotcho2876](https://takagotch.github.io/o2876/)
-[takagotcho2877](https://takagotch.github.io/o2877/)
-[takagotcho2878](https://takagotch.github.io/o2878/)
-[takagotcho2879](https://takagotch.github.io/o2879/)
+
 
 
 
