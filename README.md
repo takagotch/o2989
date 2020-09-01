@@ -536,12 +536,14 @@
 [apptky2](http://tkgcci.x0.com/)
 [apptky3](http://tkvtv.x0.com/)
 [apptky4](http://activate-d.x0.com/)
+
 [apptky5](http://activated.x0.com/)
 [apptky6](http://www.x0.com/)
 [apptky7](http://info.x0.com/)
 [apptky8]()
 [apptky9]()
 [apptky10]()
+
 [apptky11]()
 [apptky12]()
 [apptky13]()
@@ -552,6 +554,7 @@
 [apptky18]()
 [apptky19]()
 [apptky20]()
+
 [apptky20]()
 [apptky20]()
 [apptky20]()
