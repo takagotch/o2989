@@ -533,15 +533,16 @@
 
 ###### vps sakura
 [apptky1](http://takagotch.x0.com/)
-[apptky2](http://tkgcci.x0.com/)
-[apptky3](http://tkvtv.x0.com/)
-[apptky4](http://activate-d.x0.com/)
+[apptky2](http://tkgcci.x0.to/)
+[apptky3](https://activated.sakura.ne.jp)
 
-[apptky5](http://activated.x0.com/)
-[apptky6](http://www.x0.com/)
-[apptky7](http://info.x0.com/)
-[apptky8]()
-[apptky9]()
+
+[apptky4](http://tkvtv.x0.com/)
+[apptky5](http://activate-d.x0.com/)
+[apptky6](http://activated.x0.com/)
+[apptky7](http://www.x0.com/)
+[apptky8](http://info.x0.com/)
+[apptky9](https://activated.sakura.ne.jp)
 [apptky10]()
 
 [apptky11]()
