@@ -447,11 +447,34 @@
 [takagotch448](https://takagotch.github.io/page448/)
 [takagotch449](https://takagotch.github.io/page449/)
 
-[takagotch441](https://takagotch.github.io/page461/)
-[takagotch441](https://takagotch.github.io/page462/)
+[takagotch461](https://takagotch.github.io/page461/)
+[takagotch462](https://takagotch.github.io/page462/)
+[takagotch463](https://takagotch.github.io/page463/)
 
 
 
+[snippets](https://takagotch.github.io/snippets/)
+[snippets1](https://takagotch.github.io/snippets1/)
+[snippets2](https://takagotch.github.io/snippets2/)
+[snippets3](https://takagotch.github.io/snippets3/)
+[snippets4](https://takagotch.github.io/snippets4/)
+[snippets5](https://takagotch.github.io/snippets5/)
+[snippets6](https://takagotch.github.io/snippets6/)
+[snippets7](https://takagotch.github.io/snippets7/)
+[snippets8](https://takagotch.github.io/snippets8/)
+[snippets9](https://takagotch.github.io/snippets9/)
+[snippets10](https://takagotch.github.io/snippets10/)
+[snippets11](https://takagotch.github.io/snippets11/)
+[snippets12](https://takagotch.github.io/snippets12/)
+[snippets13](https://takagotch.github.io/snippets13/)
+[snippets14](https://takagotch.github.io/snippets14/)
+[snippets15](https://takagotch.github.io/snippets15/)
+[snippets16](https://takagotch.github.io/snippets16/)
+[snippets17](https://takagotch.github.io/snippets17/)
+[snippets18](https://takagotch.github.io/snippets18/)
+[snippets19](https://takagotch.github.io/snippets19/)
+[snippets20](https://takagotch.github.io/snippets20/)
+[snippets21](https://takagotch.github.io/snippets21/)
 
 ###### current homepage for personal
 [takagotcho2830](https://takagotch.github.io/o2830/)
