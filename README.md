@@ -1,6 +1,6 @@
 ### [takagotch.github.io](https://takagotch.github.io/)
 ---
-弊社Takagotch Co.ltdのベーシックイメージです。
+弊社Takagotch Co.ltdのベーシックイメージです。 | [Acitvate-d LLC](https://takagotch.github.io/page351/), <br> [TKVTV](https://www.youtube.com/channel/UCk92dcyJL1kl_JLljc6LxJQ)
 ---
 [takagotch17](https://takagotch.github.io/page17/)
 [takagotch19](https://takagotch.github.io/page19/)
