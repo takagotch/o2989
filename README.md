@@ -532,15 +532,26 @@
 [takagotcho2869](https://takagotch.github.io/o2869/)
 
 
+###### [GitLab](https://gitlab.com/)
 
+[Hostingapp1](https://3000-ef00d5bc-ba4d-4556-b2ab-531ec46eb77e.ws-us03.gitpod.io/)
+[Hostingapp2]()
+[Hostingapp3]()
+[Hostingapp4]()
+[Hostingapp5]()
 
 ```
+↑　静的ホスティングサイト
+   Static Hosting Site
 ```
 
 ```
+
 ```
 
 ```
+↓　動的ホスティングサイト
+   Dynamic Hosting Site
 ```
 
 ###### heroku
@@ -618,13 +629,7 @@
 [apptky20]()
 [apptky20]()
 
-###### [GitLab](https://gitlab.com/)
 
-[Hostingapp1](https://3000-ef00d5bc-ba4d-4556-b2ab-531ec46eb77e.ws-us03.gitpod.io/)
-[Hostingapp2]()
-[Hostingapp3]()
-[Hostingapp4]()
-[Hostingapp5]()
 
 
 
