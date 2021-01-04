@@ -542,7 +542,7 @@
 
 ###### [codepen](https://github.com/takagotch/codepen/edit/master/README.md)
 
-######## [jsfiddle](https://jsfiddle.net/)
+###### [jsfiddle](https://jsfiddle.net/)
 
 ```
 ↑　静的ホスティングサイト
