@@ -651,6 +651,9 @@
 
 ###### [Gitpod](https://github.com/takagotch/Gitpod)
 
+###### [南港リージョン](https://github.com/takagotch/)
+###### [本町リージョン](https://github.com/takagotch/)
+###### [北浜リージョン](https://github.com/takagotch/)
 
 
 ```
