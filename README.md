@@ -446,7 +446,7 @@
 [takagotch447](https://takagotch.github.io/page447/)
 [takagotch448](https://takagotch.github.io/page448/)
 [takagotch449](https://takagotch.github.io/page449/)
-### cart hugo
+
 [takagotch450](https://takagotch.github.io/page450/)
 [takagotch451](https://takagotch.github.io/page451/)
 [takagotch452](https://takagotch.github.io/page452/)
