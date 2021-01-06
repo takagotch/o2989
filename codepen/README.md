@@ -146,6 +146,13 @@ https://github.com/takagotch/takagotch.github.io/blob/master/codepen/jquery.min.
 
 
 ```
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js
+
+
+https://codepen.io/shshaw/pen/epmrgO
+https://codepen.io/takagotch/pen/WNGJqxb
+
+
 ```
 
 
