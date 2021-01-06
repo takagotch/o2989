@@ -95,7 +95,9 @@ https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/P
 
 ```
 https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/Draggable.min.js
+https://cdn.jsdelivr.net/npm/gsap@3.2.2/dist/Draggable.min.js
 https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/Draggable.min.js
+
 
 
 https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/ThrowPropsPlugin.min.js
