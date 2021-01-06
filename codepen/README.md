@@ -118,6 +118,12 @@ https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/D
 
 
 ```
+https://codepen.io/ge1doot/pen/d9842604ac1bcc222402503bd7f146dd
+https://codepen.io/takagotch/pen/mdrLYpx
+
+
+https://codepen.io/ge1doot/pen/66579e3bd0a1398c7e2c804da8dc0622
+https://codepen.io/takagotch/pen/rNMvgJO
 ```
 
 
