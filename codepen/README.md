@@ -53,7 +53,7 @@ https://codepen.io/takagotch/pen/XWjqwmW
 ```
 https://klevron.github.io/codepen/lib/verlet-1.0.0.min.js
 
-xxx
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/verlet-1.0.0.min.js
 
 
 https://codepen.io/soju22/pen/4aeaa568d7a4f3459bcde0e70b10f35a
