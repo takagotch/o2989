@@ -189,6 +189,8 @@ https://github.com/takagotch/takagotch.github.io/blob/master/codepen/TweenLite.m
 
 
 ```
+https://threejs.org/examples/js/libs/stats.min.js
+https://github.com/takagotch/takagotch.github.io/blob/master/codepen/stats.min.js
 ```
 
 ```
