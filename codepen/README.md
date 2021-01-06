@@ -175,7 +175,13 @@ https://github.com/takagotch/takagotch.github.io/blob/master/codepen/Draggable.m
 
 ```
 https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/css/demo.css
+https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js
+https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js
+https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js
 https://github.com/takagotch/takagotch.github.io/blob/master/codepen/demo.css
+https://github.com/takagotch/takagotch.github.io/blob/master/codepen/EasePack.min.js
+https://github.com/takagotch/takagotch.github.io/blob/master/codepen/rAF.js
+https://github.com/takagotch/takagotch.github.io/blob/master/codepen/TweenLite.min.js
 
 
 
