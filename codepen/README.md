@@ -32,6 +32,9 @@ https://assets.codepen.io/222599/webgl-helpers.js
 
 
 ```
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/153256/credits.js
+
+https://bilbo.surge.sh/codepen/download-cards/jquery.qrcode.min.js
 ```
 
 
