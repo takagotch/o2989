@@ -75,6 +75,21 @@ https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/D
 
 
 ```
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/
+
+
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984/ScrubGSAPTimeline.js
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/
+
+
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/DrawSVGPlugin.js?r=12
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/
+
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/Physics2DPlugin.min.js
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/
+
+
 ```
 
 
