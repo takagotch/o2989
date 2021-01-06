@@ -111,6 +111,9 @@ https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/o
 
 
 ```
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/DrawSVGPlugin.js?r=5
+
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/
 ```
 
 
