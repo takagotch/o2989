@@ -63,9 +63,14 @@ https://codepen.io/takagotch/pen/XWjqwmW
 
 
 ```
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ThrowPropsPlugin.min.js
+
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/ThrowPropsPlugin.min.js
 
 
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/DrawSVGPlugin.js?r=12
 
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/DrawSVGPlugin.js?r=12
 ```
 
 
