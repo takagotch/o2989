@@ -2,7 +2,7 @@
 
 
 ```
-https://raw.githubusercontent.com/takagotch/takagotch.github.io//master/codepen/TweenMax/libs.min.js
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/TweenMax/libs.min.js
 ```
 
 ```
