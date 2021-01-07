@@ -1,4 +1,21 @@
+``` txt
+この質問にはすでに答えがあります:
 
+または GithubをjavascriptライブラリのCDNとして使用する必要がありますか? または 5回答 または または
+raw.github.comからJavaScriptファイルを読み込むにはどうすればよいですか? CSSのこのコードは完全にうまくいきます: <link rel="stylesheet" type="text/css" href="https://raw.github.com/myusername/myrepo/master/style.css">
+
+JavaScriptでは機能しません。 <script src="https://raw.github.com/myusername/myrepo/master/script.js"></script>
+```
+
+``` txt
+コンテンツタイプがapplication/javascriptまたはtext/javascriptでないため、GithubからJavaScriptを読み込むことはできません。
+
+これは、GithubをCDNとして使用できないようにするために意図的に行われます。これはサービス条件に違反しています。
+
+参照: https://rawgithub.com/
+
+そしてこれ: https://github.com/blog/1482-heads-up-nosniff-header-support-coming-to-chrome-and-firefox
+```
 
 
 ```
