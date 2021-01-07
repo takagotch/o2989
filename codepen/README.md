@@ -194,6 +194,8 @@ https://github.com/takagotch/takagotch.github.io/blob/master/codepen/stats.min.j
 ```
 
 ```
+https://codepen.io/iamjoshellis/pen/LVvbzy
+https://codepen.io/takagotch/pen/gOwKGgo
 ```
 
 
