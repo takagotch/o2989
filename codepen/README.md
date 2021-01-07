@@ -19,6 +19,15 @@ JavaScriptでは機能しません。 <script src="https://raw.github.com/myuser
 そしてこれ: https://github.com/blog/1482-heads-up-nosniff-header-support-coming-to-chrome-and-firefox
 ```
 
+```
+SUCCESS
+https://codepen.io/takagotch/pen/gOwKXXJ
+
+ERR
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_PerspectiveTransform.js
+```
+
+
 ---
 
 
