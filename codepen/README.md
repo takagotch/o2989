@@ -27,6 +27,13 @@ ERR
 https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_PerspectiveTransform.js
 ```
 
+```
+https://edge.sincar.jp/web/base64-inline-image/
+
+画像をBase64でHTMLファイルに直接埋め込む方法
+```
+
+
 
 ---
 
