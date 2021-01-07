@@ -208,7 +208,7 @@ https://unpkg.co/gsap@3/dist/gsap.min.js
 
 ```
 https://s3-us-west-2.amazonaws.com/s.cdpn.io/6043/css_globe_PerspectiveTransform.js
-https://github.com/takagotch/takagotch.github.io/blob/master/codepen/css_globe_PerspectiveTransform.js
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_PerspectiveTransform.js
 
 ```
 
