@@ -221,7 +221,13 @@ https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/c
 
 
 ```
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_halo.png
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_diffuse.jpg
+https://raw.githubusercontent.com/takagotch/takagotch.github.io/master/codepen/css_globe_bg.jpg
 
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/6043/css_globe_halo.png
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/6043/css_globe_diffuse.jpg
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/6043/css_globe_bg.jpg
 ```
 
 ```
