@@ -1,3 +1,5 @@
+###### GithubはjavascriptCDN読み込みは禁止。技術的にはコンテンツタイプがapplication/javascript,text/javascriptではないから。
+
 ``` txt
 この質問にはすでに答えがあります:
 
@@ -16,6 +18,8 @@ JavaScriptでは機能しません。 <script src="https://raw.github.com/myuser
 
 そしてこれ: https://github.com/blog/1482-heads-up-nosniff-header-support-coming-to-chrome-and-firefox
 ```
+
+---
 
 
 ```
