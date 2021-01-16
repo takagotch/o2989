@@ -492,7 +492,16 @@
 [takagotch488](https://takagotch.github.io/page488/)
 [takagotch489](https://takagotch.github.io/page489/)
 
-
+[takagotch490](https://takagotch.github.io/page490/)
+[takagotch491](https://takagotch.github.io/page491/)
+[takagotch492](https://takagotch.github.io/page492/)
+[takagotch493](https://takagotch.github.io/page493/)
+[takagotch494](https://takagotch.github.io/page494/)
+[takagotch495](https://takagotch.github.io/page495/)
+[takagotch496](https://takagotch.github.io/page496/)
+[takagotch497](https://takagotch.github.io/page497/)
+[takagotch498](https://takagotch.github.io/page498/)
+[takagotch499](https://takagotch.github.io/page499/)
 
 
 
