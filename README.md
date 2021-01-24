@@ -614,7 +614,7 @@
 
 [stackblitz1](https://vue-custom-showcase-profile.stackblitz.io/)
 [stackblitz2](https://stackblitz.com/edit/codepeniotakashi-yoshiokapenylaxyrj-qtxtom)
-[stackblitz3]()
+[stackblitz3 | tensorflow.js](https://tensorflowjs1.stackblitz.io/me.html)
 [stackblitz4]()
 [stackblitz5]()
 [stackblitz6]()
