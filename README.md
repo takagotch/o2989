@@ -614,8 +614,10 @@
 
 [stackblitz1](https://vue-custom-showcase-profile.stackblitz.io/)
 [stackblitz2](https://stackblitz.com/edit/codepeniotakashi-yoshiokapenylaxyrj-qtxtom)
-[stackblitz3 | tensorflow.js](https://tensorflowjs1.stackblitz.io/me.html)
-[stackblitz4]()
+[stackblitz3](https://stackblitz.com/edit/tensorflowjs1)
+[stackblitz3 | tensorflow.js preview](https://tensorflowjs1.stackblitz.io/me.html)
+[stackblitz4](https://stackblitz.com/edit/tensorflowjs1status)
+[stackblitz4 | tensorflow.js preview](https://tensorflowjs1status.stackblitz.io/me.html)
 [stackblitz5]()
 [stackblitz6]()
 [stackblitz7]()
