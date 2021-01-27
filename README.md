@@ -610,12 +610,12 @@
 [Hostingapp4]()
 [Hostingapp5]()
 
-###### [codepen](https://github.com/takagotch/codepen/edit/master/README.md)
-###### [stackblitz](https://stackblitz.com/@takagotch), [JSFiddle](https://jsfiddle.net/)
+###### [Codepen](https://github.com/takagotch/codepen/edit/master/README.md)
+###### [Stackblitz](https://stackblitz.com/@takagotch)
 
 ###### [CodeSandbox](https://codesandbox.io/dashboard/home?workspace=505ef054-eae1-40ec-a8c0-2460853a1c1a), [blnq](https://studio.blnq.io/mydashboard)
 
-###### [CodeShare](https://codeshare.io/), [JSBin](https://jsbin.com/?html,output), [PlayCode](https://playcode.io/), [TryItEditor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic), [EditPad](https://www.editpad.org/),[TypeIt](https://www.typeit.org/)
+###### [JSFiddle](https://jsfiddle.net/), [codeShare](https://codeshare.io/), [JSBin](https://jsbin.com/?html,output), [PlayCode](https://playcode.io/), [tryoteditor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic), [editpad](https://www.editpad.org/),[typeit](https://www.typeit.org/)
 
 [stackblitz1](https://vue-custom-showcase-profile.stackblitz.io/)
 [stackblitz2](https://stackblitz.com/edit/codepeniotakashi-yoshiokapenylaxyrj-qtxtom)
